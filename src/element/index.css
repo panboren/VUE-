@@ -1,0 +1,17 @@
+/*轮播图焦点区*/
+.my_swiper #focus{
+   bottom: 120px;
+}
+.my_swiper #focus .swiper-pagination-bullet{
+    width: 24px;
+    margin-right:4px;
+    border-radius: 2px;
+    height: 2px;
+    background: #45caff;
+}
+
+img[lazy=loading] {
+  width: 100px;
+  height: 100px;
+}
+
